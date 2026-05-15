@@ -1,5 +1,5 @@
 # AI-Solutions IIS Log Analytics Dashboard
-## CET333 Product Development | TSHEPHANG NTHABA
+## CET333 Product Development | ROSE SEREMANE
 
 ---
 
@@ -34,7 +34,7 @@ Open your browser and go to:
 |------------|------------|
 | admin      | admin123   |
 | analyst    | sales2026  |
-| tshephang  | bida2026   |
+| rose       | bida2026   |
 
 ---
 
